@@ -17,3 +17,5 @@ Creating a file with \*\\'"Best School"\'\*$\?******:) as the exact name
 8-cwd_state creates a file and inputs into that file the output from ls -la command
 ---
 Duplicating the last line of the iacta file
+---
+Displaying the 10 newest files in the working directory
