@@ -11,3 +11,5 @@ The 0-hello_world script prints Hello World followed by a new line to the standa
 5-firstlines displays the first 10 lines of /etc/passwd file
 ---
 6-third_line displays the third line in the iacta file
+---
+Creating a file with \*\\'"Best School"\'\*$\?******:) as the exact name
