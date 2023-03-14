@@ -15,3 +15,5 @@ The 0-hello_world script prints Hello World followed by a new line to the standa
 Creating a file with \*\\'"Best School"\'\*$\?******:) as the exact name
 ---
 8-cwd_state creates a file and inputs into that file the output from ls -la command
+---
+Duplicating the last line of the iacta file
