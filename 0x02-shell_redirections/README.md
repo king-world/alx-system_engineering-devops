@@ -19,3 +19,5 @@ Creating a file with \*\\'"Best School"\'\*$\?******:) as the exact name
 Duplicating the last line of the iacta file
 ---
 Displaying the 10 newest files in the working directory
+---
+Outputting only unique files
