@@ -19,3 +19,5 @@ Adding the /action path to the path variable
 9-divide_and_rule divided the variable power by the variable divide
 ---
 10-love_exponent_breath gives the result of breath variable exponent love variable
+---
+11-binary_to_decimal Changes the base 2 variable to base 10
