@@ -11,3 +11,5 @@ Adding the /action path to the path variable
 5-local_variables prints the lists of all local variables, environment variables, and functions
 ---
 6-create_local_variable creates a new variable
+---
+7-create_global_variable creates a new global variable
