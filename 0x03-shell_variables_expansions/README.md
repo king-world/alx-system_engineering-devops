@@ -15,3 +15,5 @@ Adding the /action path to the path variable
 7-create_global_variable creates a new global variable
 ---
 8-true_knowledge adds a number to the already stored number in the environmental variable
+---
+9-divide_and_rule divided the variable power by the variable divide
