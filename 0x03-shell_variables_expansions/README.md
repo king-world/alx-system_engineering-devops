@@ -7,3 +7,5 @@ This is the readme file for this directory
 Adding the /action path to the path variable
 ---
 4-global_variables prints environment variables
+---
+5-local_variables prints the lists of all local variables, environment variables, and functions
