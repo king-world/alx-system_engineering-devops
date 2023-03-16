@@ -17,3 +17,5 @@ Adding the /action path to the path variable
 8-true_knowledge adds a number to the already stored number in the environmental variable
 ---
 9-divide_and_rule divided the variable power by the variable divide
+---
+10-love_exponent_breath gives the result of breath variable exponent love variable
